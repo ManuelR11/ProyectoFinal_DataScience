@@ -61,7 +61,7 @@ python nombre_del_archivo.py
 
 Este proyecto incluye un segundo archivo compatible con `Streamlit` para visualizar el análisis en una página web interactiva. `Streamlit` permite visualizar gráficos, tablas y métricas directamente en el navegador.
 
-![Proyecto Web](videoProyecto Final Data science.mp4)
+![videoProyecto Final Data science.mp4](https://github.com/ManuelR11/ProyectoFinal_DataScience/blob/c496695a51a8d78ea0e1b06018a16cba071112cc/videoProyecto%20Final%20Data%20science.mp4)
 
 
 ### Configuración para Streamlit
