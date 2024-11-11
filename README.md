@@ -56,13 +56,13 @@ Para ejecutar el análisis y visualizar los gráficos, simplemente corre el scri
 python nombre_del_archivo.py
 ```
 
-### Ejemplo de Ejecución en Jupyter Notebook
-
-Si deseas ejecutar el código en Jupyter Notebook, puedes copiar cada sección y ejecutarla en celdas sucesivas para observar las transformaciones, gráficos y resultados en tiempo real.
 
 ## Visualización en Web usando Streamlit
 
 Este proyecto incluye un segundo archivo compatible con `Streamlit` para visualizar el análisis en una página web interactiva. `Streamlit` permite visualizar gráficos, tablas y métricas directamente en el navegador.
+
+
+
 
 ### Configuración para Streamlit
 
